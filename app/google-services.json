@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "834919922845",
+    "firebase_url": "https://resonant-physics.firebaseio.com",
+    "project_id": "resonant-physics",
+    "storage_bucket": "resonant-physics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834919922845:android:0ded437f8e00253cb26874",
+        "android_client_info": {
+          "package_name": "com.amanullah.myapplication98"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834919922845-r1krm70ovn6417khnis9t7u2gkqkk2ar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amanullah.myapplication98",
+            "certificate_hash": "281d3acc2f5be8e07e435237127404d18e063964"
+          }
+        },
+        {
+          "client_id": "834919922845-06bsd13qqg0vftrdg5k0ssusukvnofcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3cdsUU0SJti6xsXLeN2C0eWcVHZlaYPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834919922845-06bsd13qqg0vftrdg5k0ssusukvnofcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

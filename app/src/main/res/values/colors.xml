@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0E65</color>
+    <color name="colorPrimaryDark">#FF5E2D</color>
+    <color name="colorAccent">#FF0E65</color>
+<!--    <color name="colorPrimary">#6200EE</color>-->
+<!--    <color name="colorPrimaryDark">#3700B3</color>-->
+<!--    <color name="colorAccent">#6200EE</color>-->
+<!--    <color name="colorAccent">#03DAC5</color>-->
+
+    <color name="colortrans1">#1AFF0E65</color>
+    <color name="colortrans2">#1A6200EE</color>
+
+    <color name="colorPrimary2">#6200EE</color>
+    <color name="colorPrimaryDark2">#3700B3</color>
+
+    <color name="defultColor">#6c63ff</color>
+
+
+    <color name="y1">#F7B02F</color>
+
+    <color name="y2">#FA9B3B</color>
+
+    <color name="o1">#AC0C38</color>
+
+    <color name="o2">#E23264</color>
+
+    <color name="o3">#C13155</color>
+
+    <color name="o4">#C43156</color>
+
+    <color name="b1">#48A5FD</color>
+
+    <color name="b2">#4187E4</color>
+    <color name="b22">#8D4187E4</color>
+
+    <color name="b3">#6168F1</color>
+
+    <color name="g1">#8DE02C</color>
+
+    <color name="g2">#37BB26</color>
+
+
+
+    <color name="z1">#5CCCF1</color>
+
+    <color name="z2">#48BDF2</color>
+
+    <color name="z3">#3CB0F4</color>
+
+    <color name="z4">#32A2F5</color>
+
+    <color name="z5">#1B8EE7</color>
+
+    <color name="x1">#5BD7F0</color>
+
+    <color name="x2">#45D9EC</color>
+
+    <color name="x3">#36DEEA</color>
+
+    <color name="x4">#2AE3E7</color>
+
+    <color name="u1">#57A4E4</color>
+
+    <color name="u2">#6FAEEC</color>
+
+    <color name="blue21">#868FEE</color>
+
+    <color name="blue22">#666DEE</color>
+
+    <color name="blue23">#5C65D9</color>
+
+    <color name="blue1">#776AD6</color>
+
+    <color name="blue2">#8574E1</color>
+
+    <color name="p1">#F7358C</color>
+
+    <color name="p2">#F05EA1</color>
+
+    <color name="bbb1">#48A5FF</color>
+
+    <color name="bbb2">#4086E4</color>
+
+
+
+    <color name="t1">#E65BD7F0</color>
+    <color name="t2">#E6FFFFFF</color>
+    <color name="white">#ffffff</color>
+    <color name="txt_dark">#000000</color>
+    <color name="black">#000000</color>
+</resources>

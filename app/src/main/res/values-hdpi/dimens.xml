@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dynamic_32dp">24dp</dimen>
+    <dimen name="dynamic_80dp">64dp</dimen>
+    <dimen name="dynamic_24dp">19dp</dimen>
+
+    <dimen name="dynamic_15sp">12sp</dimen>
+    <dimen name="dynamic_14sp">11sp</dimen>
+    <dimen name="dynamic_28sp">22sp</dimen>
+    <dimen name="dynamic_30sp">23sp</dimen>
+    <dimen name="dynamic_18sp">14sp</dimen>
+    <dimen name="dynamic_13sp">11sp</dimen>
+    <dimen name="dynamic_16dp">12dp</dimen>
+</resources>
